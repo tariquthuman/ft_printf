@@ -65,7 +65,7 @@ int	ft_printf(const char *format, ...)
 	return (return_length);
 }
 
-int	main(void)
+/*int	main(void)
 {
 	ft_printf("Character: %c\nString: %s\nPointer: %p\nDecimal:
 		%d\nInteger:%i\nHexadecimal (lowercase): %x\nHexadecimal (uppercase):
@@ -73,4 +73,4 @@ int	main(void)
 		255, 255, 300);
 	ft_printf("Percent sign: %%\n");
 	return (0);
-}
+}*/
